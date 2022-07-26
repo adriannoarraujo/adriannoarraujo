@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adriannoarraujo
-- 👀 Studying javascript JavaScript, HTML, CSS, Node, VS code, react native, react, SQL
+- 👀 Studying JavaScript, HTML, CSS, Node, VS code, react native, react, SQL
 
 
 <!---
